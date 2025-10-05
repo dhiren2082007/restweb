@@ -264,9 +264,9 @@ menu.html
 
 
 ## OUTPUT:
-![alt text](<WhatsApp Image 2025-10-04 at 8.34.45 AM.jpeg>)
-![alt text](<WhatsApp Image 2025-10-04 at 8.34.46 AM (1).jpeg>)
-![alt text](<WhatsApp Image 2025-10-04 at 8.34.46 AM (2).jpeg>)
-![alt text](<WhatsApp Image 2025-10-04 at 8.34.46 AM.jpeg>)
+<img width="1280" height="608" alt="image" src="https://github.com/user-attachments/assets/d0d125da-06bb-4354-8f66-3ec826a7fe63" />
+<img width="1280" height="610" alt="image" src="https://github.com/user-attachments/assets/8a021807-7710-41aa-aba9-cdcb7aa6c80a" />
+<img width="1280" height="443" alt="image" src="https://github.com/user-attachments/assets/4525b754-2a6d-49f2-b596-7533d424e7ec" />
+<img width="1280" height="625" alt="image" src="https://github.com/user-attachments/assets/57ed9bc4-1ae0-49f8-845c-338da215d284" />
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
